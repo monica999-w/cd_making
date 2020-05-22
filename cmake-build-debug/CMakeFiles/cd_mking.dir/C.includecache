@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Facultate/cd_mking/best_fit.c
+best_fit.h
+C:/Facultate/cd_mking/best_fit.h
+stdlib.h
+-
+
+C:/Facultate/cd_mking/best_fit.h
+
+C:/Facultate/cd_mking/firs_fit.c
+firs_fit.h
+C:/Facultate/cd_mking/firs_fit.h
+stdlib.h
+-
+
+C:/Facultate/cd_mking/firs_fit.h
+
+C:/Facultate/cd_mking/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+best_fit.h
+C:/Facultate/cd_mking/best_fit.h
+firs_fit.h
+C:/Facultate/cd_mking/firs_fit.h
+

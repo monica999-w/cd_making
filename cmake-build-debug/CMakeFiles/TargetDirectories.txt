@@ -1,0 +1,3 @@
+C:/Facultate/cd_mking/cmake-build-debug/CMakeFiles/cd_mking.dir
+C:/Facultate/cd_mking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/cd_mking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
